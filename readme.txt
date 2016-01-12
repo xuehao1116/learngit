@@ -5,6 +5,7 @@ Git tracks changes
 Git tracks changes of files.
 Git has different branches.
 Creating a new branch is quick and  smple.
+Test  --no-ff mode when merge branches.
 
 
 
