@@ -1,13 +1,9 @@
 Git is a distributed version control system.
-Git is free software under th GPL
+Git is a free software under th GPL
 Git has a mutable index called stage
 Git tracks changes
 Git tracks changes of files.
-Git has different branches.
-Creating a new branch is quick and  smple.
-Test  --no-ff mode when merge branches.
-Practice branch manange.
-branch xh1 modify file.
+
 
 
 
